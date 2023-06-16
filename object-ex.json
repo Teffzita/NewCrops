@@ -1,0 +1,14 @@
+{
+	"Name": "",
+	"Price": ,
+	"Description": "",
+	"Category": "",
+	"Edibility": ,
+	"Recipe": null,
+    "NameLocalization": {
+        "pt":""
+      },
+      "DescriptionLocalization": {
+        "pt":""
+      }
+}

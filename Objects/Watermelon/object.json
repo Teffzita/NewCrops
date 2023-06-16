@@ -1,0 +1,14 @@
+{
+	"Name": "Watermelon",
+	"Price": 400,
+	"Description": "A delicious fruit.",
+	"Category": "Fruit",
+	"Edibility": 40,
+	"Recipe": null,
+    "NameLocalization": {
+        "pt":"Melancia"
+      },
+      "DescriptionLocalization": {
+        "pt":"Uma futa deliciosa."
+      }
+}

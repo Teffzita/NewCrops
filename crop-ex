@@ -1,0 +1,32 @@
+{
+  "Name": "",
+  "Product": "",
+  "SeedName": "",
+  "SeedDescription": "",
+  "Type": "",
+  "CropType": "Normal",
+  "Seasons": [""],
+  "Phases": [],
+  "RegrouwthPhase": -1,
+  "HarvestWithScythe": false,
+  "TrellisCrop": false,
+  "Bonus": {
+    "MinimumPerHarvest": 1,
+    "MaximumPerHarvest": 1,
+    "MaxIncreasePerFarmLevel": 2,
+    "ExtraChance": 0.2
+  },
+  "SeedPurchasePrice": 100,
+  "SeedPurchaseFrom": "Pierre",
+  "SeedPurchaseRequirements": [""],
+
+  "NameLocalization": {
+    "pt":""
+  },
+  "SeedNameLocalization": {
+    "pt":""
+  },
+  "SeedDescriptionLocalization": {
+    "pt":""
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "NewCrops",
+  "Author": "Teffzita",
+  "Version": "1.0.0",
+  "Description": "Add new crops and etc",
+  "UniqueID": "Teffzita.NewCrops",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets",
+    "IsRequired": true
+  }
+}

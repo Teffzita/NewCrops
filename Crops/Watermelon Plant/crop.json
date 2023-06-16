@@ -1,0 +1,32 @@
+﻿{
+  "Name": "Watermelon Plant",
+  "Product": "Watermelon",
+  "SeedName": "Watermelon Seeds",
+  "SeedDescription": "Grow in 13 days. Plant in summer.",
+  "Type": "Fruit",
+  "CropType": "Normal",
+  "Seasons": ["summer"],
+  "Phases": [1,2,3,4,3],
+  "RegrouwthPhase": -1,
+  "HarvestWithScythe": false,
+  "TrellisCrop": false,
+  "Bonus": {
+    "MinimumPerHarvest": 1,
+    "MaximumPerHarvest": 1,
+    "MaxIncreasePerFarmLevel": 2,
+    "ExtraChance": 0.2
+  },
+  "SeedPurchasePrice": 100,
+  "SeedPurchaseFrom": "Pierre",
+  "SeedPurchaseRequirements": ["z spring"],
+
+  "NameLocalization": {
+    "pt":"Melancia"
+  },
+  "SeedNameLocalization": {
+    "pt":"Semente de Melancia"
+  },
+  "SeedDescriptionLocalization": {
+    "pt":"Cresce em 13 dias. Plante no verão"
+  }
+}
