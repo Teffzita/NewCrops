@@ -3,7 +3,7 @@
   "Product": "Watermelon",
   "SeedName": "Watermelon Seeds",
   "SeedDescription": "Grow in 13 days. Plant in summer.",
-  "Type": "Fruit",
+  "Type": "Seeds",
   "CropType": "Normal",
   "Seasons": ["summer"],
   "Phases": [1,2,3,4,3],

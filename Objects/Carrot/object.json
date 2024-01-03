@@ -1,0 +1,14 @@
+{
+	"Name": "Carrot",
+	"Price": 80,
+	"Description": "Very common tuber in winter.",
+	"Category": "Vegetable",
+	"Edibility": 13,
+	"Recipe": null,
+    "NameLocalization": {
+        "pt":"Cenoura"
+      },
+      "DescriptionLocalization": {
+        "pt":"Tubérculo muito comum no inverno"
+      }
+}

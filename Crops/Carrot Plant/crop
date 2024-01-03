@@ -1,0 +1,32 @@
+{
+  "Name": "Carrot Plant",
+  "Product": "Carrot",
+  "SeedName": "Carrot Seeds",
+  "SeedDescription": "Grow in 6 days. Plant in winter.",
+  "Type": "Seeds",
+  "CropType": "Normal",
+  "Seasons": ["winter"],
+  "Phases": [1,1,12,1],
+  "RegrouwthPhase": -1,
+  "HarvestWithScythe": false,
+  "TrellisCrop": false,
+  "Bonus": {
+    "MinimumPerHarvest": 1,
+    "MaximumPerHarvest": 3,
+    "MaxIncreasePerFarmLevel": 2,
+    "ExtraChance": 0.2
+  },
+  "SeedPurchasePrice": 50,
+  "SeedPurchaseFrom": "Pierre",
+  "SeedPurchaseRequirements": [""],
+
+  "NameLocalization": {
+    "pt":"Cenoura"
+  },
+  "SeedNameLocalization": {
+    "pt":"Semente de Cenoura"
+  },
+  "SeedDescriptionLocalization": {
+    "pt":"Cresce em 6 dias. Plante no inverno."
+  }
+}
